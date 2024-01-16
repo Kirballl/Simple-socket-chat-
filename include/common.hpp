@@ -1,0 +1,10 @@
+//  #ifndef MYCHATAPP_COMMON_HPP
+//  #define MYCHATAPP_COMMON_HPP
+#pragma once
+
+#define SERVER_PORT 1607
+#define BUFFER_SIZE 1024
+#define MAX_CLIENTS 5
+#define CLIENT_CLOSE_CONNECTION_SYMBOL '#'
+
+//  #endif //MYCHATAPP_COMMON_HPP
